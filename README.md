@@ -19,6 +19,26 @@ CareFlow is a local-first personal healthcare organization app for appointments,
 - Reduced-motion support with `prefers-reduced-motion`
 - No paid services, API keys or cloud database required
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/Landing_page.png" alt="CareFlow Landing Page"></td>
+    <td><img src="screenshots/Dashboard_page.png" alt="CareFlow Dashboard"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Appointment_page.png" alt="CareFlow Appointments"></td>
+    <td><img src="screenshots/Medication_page.png" alt="CareFlow Medications"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Timeline_page.png" alt="CareFlow Timeline"></td>
+    <td><img src="screenshots/Reminder_page.png" alt="CareFlow Reminders"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="screenshots/Healthnotes_page.png" alt="CareFlow Health Notes"></td>
+  </tr>
+</table>
+
 ## Technology stack
 
 - React + JavaScript
